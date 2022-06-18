@@ -59,6 +59,7 @@ section#p2{
     background-size: cover;
     background-position: right center;
     background-attachment: fixed;
+    box-shadow: inset 5px 5px 15px rgba(0, 0, 0, 0.616);
 }
 
 section > p#pp2{
@@ -73,6 +74,7 @@ section#p5{
     background-size: cover;
     background-position: top left;
     background-attachment: fixed;
+    box-shadow: inset 5px 5px 15px rgba(0, 0, 0, 0.616);
 }
 
 section > p#pp5{
