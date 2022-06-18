@@ -81,3 +81,15 @@ section > p#pp5{
     padding: 5px;
     width: 41.5vw;
 }
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+footer > p {
+    margin: 0;
+    color: white;
+    font: normal 1em Verdana;
+}
